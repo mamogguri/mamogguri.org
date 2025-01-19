@@ -1,0 +1,147 @@
+html{
+    background-image: url('https://64.media.tumblr.com/3e49cbee402ef0efb23c630d8ef5a39a/d7f3929d8a0dc321-53/s100x200/ca6d28488072be41424f020730c1ecb234661367.gifv');
+    background-repeat: repeat;
+    margin: auto;
+
+
+																				
+}
+
+
+.tag{
+    padding: 5px;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+
+}
+/* mamoswine banner ends here*/ 
+
+a{
+    color: #adaf30;
+    text-decoration: dotted;
+}
+.box{
+    text-decoration: dashed;
+    padding: 1px;
+    border: 5px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 350px;
+    display: flex;
+    position: absolute;
+    left: 38.9%;
+
+}
+/*start of border*/
+
+.border{
+    position: absolute;
+    left: 37%;
+    top: 180px;
+    z-index: 1;
+    
+}
+
+marquee{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.sheep{
+    position: absolute;
+    top: 270px;
+    z-index: 1;
+    left: 59%;
+
+}
+
+.fighting{
+    position: absolute;
+    top: 350px;
+    z-index: 1;
+    left: 34.5%;
+
+}
+
+.fairy{
+    position: absolute;
+    top: 450px;
+    z-index: 1;
+    left: 59%;
+ 
+}
+
+.horse{
+    position: absolute;
+    top: 450px;
+    z-index: 1;
+    left: 34.5%;
+
+}
+
+.lantern{
+    position: absolute;
+    top: 360px;
+    z-index: 1;
+    left: 59%;
+
+}
+
+.scorp{
+    position: absolute;
+    top: 250px;
+    z-index: 1;
+    left: 34.5%;
+
+}
+
+.bottom{
+    position: absolute;
+    top: 545px;
+    left: 37%;
+    z-index: 1;
+}
+
+/*end of boreder*/
+
+
+.first{
+    padding: 10px;
+    border: solid white 10px;
+    border-right: dotted white 6px;
+    background-color: rgba(105, 198, 255, 0.199);
+    margin: 0 auto;
+    text-align: center;
+    max-width: 40%;
+    white-space: wrap;
+    height: 300px;
+    margin-right: 0%;
+    overflow: auto;
+}
+
+
+.button{
+    font-size:20px;
+    text-decoration: dotted;
+    text-transform: uppercase;
+
+
+}
+/*end of box one*/
+
+.updates{
+    padding: 10px;
+    border: solid white 10px;
+    border-left: 0px;
+    background-color: rgba(105, 198, 255, 0.199);
+    margin: 0 auto;
+    max-width: 40%; 
+    text-align: center;
+    position: relative;
+    margin-left: 0%;
+}
+
+.border{
+    position: absolute;
+}
